@@ -99,10 +99,13 @@ export default function Profile() {
             <InfoItem label="병역" value="병장 만기 전역 (2011.07 – 2013.04)" />
             <div className="flex flex-col gap-0.5">
             <span className="text-xs font-medium text-gray-400 uppercase tracking-wider">MBTI</span>
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-2 flex-wrap">
               <span className="text-sm text-gray-800">ENTP</span>
-              <span className="text-xs bg-indigo-100 text-indigo-700 px-2 py-0.5 rounded-full font-medium">
-                아이디어 뱅크형 · 실행력이 앞서는 행동파
+              <span className="text-xs bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full font-medium">
+                아이디어 뱅크형
+              </span>
+              <span className="text-xs bg-rose-100 text-rose-600 px-2 py-0.5 rounded-full font-medium">
+                계획보다 실행력이 앞서는 행동파
               </span>
             </div>
           </div>
