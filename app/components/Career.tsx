@@ -142,6 +142,7 @@ type Company = {
   position: string;
   period: string;
   videoUrl?: string;
+  figmaUrl?: string;
   items: ExperienceItem[];
   techStack?: TechStackRow[];
 };
