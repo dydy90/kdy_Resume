@@ -52,7 +52,7 @@ export default function Profile() {
               <h3 className="text-base font-bold text-gray-900">빠른 프로토타이핑</h3>
             </div>
             <p className="text-sm text-gray-600 leading-relaxed mb-2">
-              <span className="font-semibold text-indigo-600">AI 주도 개발 능력(Python, React, Next.js, Supabase/PostgreSQL)</span>을 활용해 아이디어를 즉시 시제품 수준으로 구현합니다.
+              <span className="font-semibold text-indigo-600">AI 주도 개발 능력(Python, React, Next.js, Supabase/PostgreSQL)</span>을 활용해 아이디어를 즉시 시제품 수준으로 구현하여 검증합니다.
             </p>
             <p className="text-sm text-gray-600 leading-relaxed">
               단순 가설에 그치지 않고 기술적 실현 가능성을 직접 검증하여 개발 착수 단계의 불확실성을 제거합니다.
@@ -68,7 +68,7 @@ export default function Profile() {
               상업용 부동산 도메인에 대한 깊은 이해를 바탕으로, 현장에 불필요한 기능을 선제적으로 걸러냅니다.
             </p>
             <p className="text-sm text-gray-600 leading-relaxed">
-              기획 단계에서 기술적 제약 사항을 고려하여, 개발팀이 핵심 로직과 구조 설계에만 집중할 수 있는 환경을 만듭니다.
+              기획 단계에서 직접 프로토타이핑으로 기술적 제약 사항 및 개발 가능여부를 선제적으로 검증하여, 개발팀이 핵심 로직과 구조 설계에만 집중할 수 있는 환경을 만듭니다.
             </p>
           </div>
 
@@ -81,7 +81,7 @@ export default function Profile() {
               모호한 요구사항으로 인한 재작업을 방지하고, 정교한 설계로 연간 수억 원 규모의 개발 인건비 낭비를 막습니다.
             </p>
             <p className="text-sm text-gray-600 leading-relaxed">
-              시행착오 없는 기획으로 제품의 시장 출시 속도를 극대화합니다.
+              시행착오를 최소화 한 기획으로 제품의 시장 출시 속도를 극대화합니다.
             </p>
           </div>
         </div>
