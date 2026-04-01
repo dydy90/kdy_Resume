@@ -97,7 +97,15 @@ export default function Profile() {
             <InfoItem label="주소" value="인천광역시 계양구 장제로878, 105동 603호" />
             <InfoItem label="학력" value="인천대학교 기계공학과 중퇴" />
             <InfoItem label="병역" value="병장 만기 전역 (2011.07 – 2013.04)" />
-            <InfoItem label="MBTI" value="ENTP" />
+            <div className="flex flex-col gap-0.5">
+            <span className="text-xs font-medium text-gray-400 uppercase tracking-wider">MBTI</span>
+            <div className="flex items-center gap-2">
+              <span className="text-sm text-gray-800">ENTP</span>
+              <span className="text-xs bg-indigo-100 text-indigo-700 px-2 py-0.5 rounded-full font-medium">
+                아이디어 뱅크형 · 실행력이 앞서는 행동파
+              </span>
+            </div>
+          </div>
             <InfoItem label="혈액형" value="O형" />
           </div>
 
