@@ -6,9 +6,14 @@ export default function Profile() {
       {/* 헤더 문구 */}
       <div className="text-center mb-16">
         <p className="text-sm md:text-base font-medium mb-4 leading-relaxed">
-          기획자지만 <span className="text-red-500 font-bold">문서만 쓰는 기획자가 아닙니다.</span><br />
-          <span className="text-indigo-600 font-bold">빠른 시제품 수준의 프로토타이핑</span>으로 실현 가능한 기획을 선 검증하여<br />
-          <span className="text-orange-500 font-bold">귀사의 리소스를 아껴줄 인재임을 확신합니다.</span>
+          <span className="text-indigo-600 font-bold">개발자가 아닌 기획자이지만, 귀사의 성장에 누구보다 필요한 인력임을 확신합니다.</span><br />
+          저는 <span className="text-red-500 font-bold">문서만 나열하는 기획자가 아닙니다.</span><br />
+          직접 구현하는 <span className="text-emerald-600 font-bold">빠른 시제품 수준의 프로토타이핑</span>으로 기술적 실현 가능성을 선제적으로 검증합니다.<br />
+          기획 단계에서의 불확실성을 제거하여, <span className="text-orange-500 font-bold">귀사의 귀한 개발 리소스가 낭비되는 것을 원천 차단합니다.</span>
+        </p>
+        <p className="text-base md:text-lg text-gray-600 font-medium mt-4">
+          단순한 기능 정의를 넘어 개발팀의 생산성을 비약적으로 높이는 것,<br />
+          그것이 제가 귀사의 <span className="text-rose-500 font-bold">그 어떤 개발자보다 더 필요하다고 자신하는 이유</span>입니다.
         </p>
         <p className="text-2xl md:text-4xl font-bold text-gray-900 leading-snug tracking-tight">
           개발 효율성을 극대화하는 실전형 기획자, <span className="text-indigo-600">김도윤</span>입니다.
